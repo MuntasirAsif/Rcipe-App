@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import 'Users/Auth/login_screen.dart';
-
+//using getx
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
